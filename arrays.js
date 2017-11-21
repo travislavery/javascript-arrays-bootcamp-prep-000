@@ -42,3 +42,4 @@ function removeElementFromEndOfArray(array) {
   var slicedArray = array.pop()
   return slicedArray
 }
+
