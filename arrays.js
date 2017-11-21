@@ -32,3 +32,5 @@ function removeElementFromBeginningOfArray(array) {
   var slicedArray = array.slice(0,1)
   return slicedArray
 }
+
+function 
